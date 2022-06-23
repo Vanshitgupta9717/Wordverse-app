@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wordverse-Jassi-Edition.git/static/css/main.65825e51.css",
+    "main.js": "/Wordverse-Jassi-Edition.git/static/js/main.bc4cecf0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Wordverse-Jassi-Edition.git/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Wordverse-Jassi-Edition.git/index.html",
+    "main.65825e51.css.map": "/Wordverse-Jassi-Edition.git/static/css/main.65825e51.css.map",
+    "main.bc4cecf0.js.map": "/Wordverse-Jassi-Edition.git/static/js/main.bc4cecf0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Wordverse-Jassi-Edition.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65825e51.css",
+    "static/js/main.bc4cecf0.js"
+  ]
+}
